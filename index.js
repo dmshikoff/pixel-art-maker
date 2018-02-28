@@ -32,3 +32,11 @@ let colorSelector;
    colorSelector = 'grey'
     console.log('the color is now grey')
  })
+ document.querySelector('.purple').addEventListener('click', function(){
+   colorSelector = 'purple'
+    console.log('the color is now purple')
+ })
+ document.querySelector('.seafoam').addEventListener('click', function(){
+   colorSelector = 'seafoam'
+    console.log('the color is now seafoam')
+ })

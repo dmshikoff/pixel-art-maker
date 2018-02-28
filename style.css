@@ -21,6 +21,14 @@ div.firstCol {
   width: 25px;
 }
 
+.seafoam {
+  background-color: #A9FFDD;
+}
+
+.purple {
+  background-color: purple;
+}
+
 .grey {
   background-color: #EFEFEF;
 }
