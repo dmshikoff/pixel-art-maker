@@ -40,3 +40,7 @@ let colorSelector;
    colorSelector = 'seafoam'
     console.log('the color is now seafoam')
  })
+ document.querySelector('.lavender').addEventListener('click', function(){
+   colorSelector = 'lavender'
+    console.log('the color is now lavender')
+ })
